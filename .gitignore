@@ -1,0 +1,15 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary / lock files
+~$*
+*.tmp
+*.bak
+
+# 3D software backups
+*.blend1
+*.blend2
+autoback.*
+maxbackup
